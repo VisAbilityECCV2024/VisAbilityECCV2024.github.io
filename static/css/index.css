@@ -132,6 +132,7 @@ body {
 
 ul.topics {
   list-style-type: circle;
+  padding-left: 20px;
 }
 
 
